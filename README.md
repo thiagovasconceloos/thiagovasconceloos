@@ -63,25 +63,19 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Estatisticas:-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&layout=compact"
     alt="Thiago Vasconcelos" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagovasconceloos&theme=dark&background=0d1117&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagovasconceloos&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF)](https://git.io/streak-stats)
 
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=thiagovasconceloos&bg_color=0d1117&text_color=ffffff&locale=pt-br" alt="adam-pw" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&locale=pt-br" alt="" /></a> </p>
+
