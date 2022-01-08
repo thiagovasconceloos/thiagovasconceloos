@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://profile-counter.glitch.me/thiagovasconceloos/count.svg"
+<p align="right"> <h3>Visualizações no perfil :-</h3> <img src="https://profile-counter.glitch.me/thiagovasconceloos/count.svg"
     alt="adam-pw" /> 
   </p>
 
