@@ -21,15 +21,10 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/thiago-vasconcelos-0843b3127/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Thiago Vasconcelos" height="30" width="40" /></a>
-  <a href="https://fb.com/otvasconcelos" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Thiago Vasconcelos" height="30" width="40" /></a>
-  <a href="https://instagram.com/otvasconcelos" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Thiago Vasconcelos" height="30" width="40" /></a>
+ 
+<a href="https://instagram.com/otvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:thiagovasconcelos@aol.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </p>
@@ -78,4 +73,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagovasconceloos&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF)](https://git.io/streak-stats)
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/thiagovasconceloos/blob/output/github-contribution-grid-snake.svg
