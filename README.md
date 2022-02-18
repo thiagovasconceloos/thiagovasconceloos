@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago</h1>
-<h3 align="center">Estudante de Software Quality Assurance, Francisco Morato - SP🌟.</h3>
 
 <br>
 
