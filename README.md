@@ -55,15 +55,15 @@
 
 <br>
 
-<h3 align="right">Estatisticas:-</h3>
-<p><img align="center"
+<h3>Estatisticas:-</h3>
+<p align="right"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&layout=compact"
     alt="Thiago Vasconcelos" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&repo=convoychat"
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
