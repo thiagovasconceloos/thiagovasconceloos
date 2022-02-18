@@ -55,7 +55,7 @@
 
 <br>
 
-<h3>Estatisticas:-</h3>
+<h3 align="right">Estatisticas:-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovasconceloos&show_icons=true&locale=pt-br&bg_color=ffffff&text_color=000000&layout=compact"
     alt="Thiago Vasconcelos" 
