@@ -25,7 +25,7 @@ class Skills extends SQA {
 
 
 [instagram]: https://www.instagram.com/otvasconcelos/
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/thiago-vasconcelos-0843b3127/
+[linkedin]: https://www.linkedin.com/in/thiago-vasconcelos-0843b3127/
 
 
 <br><strong>Rede Sociais!</strong> <br>
