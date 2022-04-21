@@ -11,7 +11,7 @@ class Skills extends SQA {
   aplicacoes  = ['Java','Javascript','HTML5','CSS3','Python','SQL','NoSQL'];
   frameworks = ['Cypress','Selenium','JUnity'];
   ferramentas = [ 'Visual Studio Code','MySQL','Eclipse','Trello','Jira'];
-  devOps = [ 'Git', 'GitHub']
+  devOps = [ 'Git', 'GitHub', 'CI/CD']
   
 }
 ```
