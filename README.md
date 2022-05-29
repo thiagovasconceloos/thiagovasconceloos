@@ -9,7 +9,7 @@ class SobreMim extends SQA {
 
 class Skills extends SQA {
   aplicacoes  = ['Java','Javascript','HTML5','CSS3','Python','SQL','NoSQL'];
-  frameworks = ['Cypress','Selenium','JUnity'];
+  frameworks = ['Cypress','Selenium','Cucumber','Robot','JUnity'];
   ferramentas = [ 'Visual Studio Code','MySQL','Eclipse','Trello','Jira','MongoDB'];
   devOps = [ 'Git', 'GitHub', 'CI/CD']
   
