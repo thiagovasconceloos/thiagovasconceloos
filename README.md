@@ -1,13 +1,13 @@
 ```js
-import SQA from 'thiagovasconceloos';
+import me from 'thiagovasconceloos';
 
-class SobreMim extends SQA {
+class SobreMim extends me {
   nome     = 'Thiago Vasconcelos';
   local = 'Francisco Morato';
   
 }
 
-class Skills extends SQA {
+class Skills extends me {
   aplicacoes  = ['Java','Javascript','HTML5','CSS3','Python','SQL','NoSQL'];
   frameworks = ['Cypress','Selenium','Cucumber','Robot','JUnity'];
   ferramentas = [ 'Visual Studio Code','MySQL','Eclipse','Trello','Jira','MongoDB'];
