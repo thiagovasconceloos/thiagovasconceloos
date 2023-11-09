@@ -10,7 +10,7 @@ class SobreMim extends me {
 class Skills extends me {
   aplicacoes  = ['Java','Javascript','HTML5','CSS3','Python','SQL','NoSQL'];
   frameworks = ['Cypress','Selenium','Cucumber','Robot','JUnity'];
-  ferramentas = [ 'Visual Studio Code','MySQL','Eclipse','Trello','Jira','MongoDB'];
+  ferramentas = [ 'Visual Studio Code','Dbeaver','Trello','Jira','MongoDB','Lens', 'Postman', 'Offset  Explorer','Soap', 'Sublime Text', 'Docker','Jmeter'];
   devOps = [ 'Git', 'GitHub', 'CI/CD']
   
 }
